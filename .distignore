@@ -1,0 +1,9 @@
+.DS_Store
+vendor
+dist
+tests
+.gitignore
+.git
+.idea
+.distignore
+create-dist.sh

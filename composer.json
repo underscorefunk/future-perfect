@@ -1,0 +1,17 @@
+{
+  "name": "underscorefunk/future_perfect",
+  "description": "A WordPress plugin that makes sure future dated posts are actually published.",
+  "type": "wordpress-plugin",
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Underscorefunk Design",
+      "email": "john@underscorefunk.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "underscorefunk\\future_perfect\\": "src/"
+    }
+  }
+}
